@@ -97,3 +97,5 @@ Category: Normal Weight
 **Name:** Bhumika Deotare
 
 Internship Project – BMI Calculator using Python
+# bmi-calculator
+A Python-based BMI Calculator that calculates Body Mass Index and provides health status based on BMI.
